@@ -1,4 +1,4 @@
-setwd("c:/users/Eugene/Desktop/datasciencecoursera/Getting-and-Cleaning Data")
+setwd("c:/users/Eugene/Desktop/datasciencecoursera/Getting-and-Cleaning-Data")
 library(dplyr)
 ## File names
 
