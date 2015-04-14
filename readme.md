@@ -2,10 +2,10 @@
 This is the github repository for the Getting and Cleaning Data course.
 
 ## Files
-**run_analysis.r**    The R script that performs the data cleaning
-**tidy.txt**          Output text file
-**readme.md**         This file
-**codebook.md**       Codebook describing variables
+1. **run_analysis.r**    The R script that performs the data cleaning
+2. **tidy.txt**          Output text file
+3. **readme.md**         This file
+4. **codebook.md**       Codebook describing variables
 
 ## Details on run_analysis
 1. Initialize everything. Set working directory, load dplyr library, and read data.
